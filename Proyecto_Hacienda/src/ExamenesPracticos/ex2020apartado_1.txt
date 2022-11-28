@@ -1,0 +1,5 @@
+Según el enunciado, el señor Gutierrez realiza una actividad económica determinada por un régimen de estimación objetiva (la actividad agraria)
+y otra determinada por un régimen por estimación directa (la actividad económica) por modalidad simplificada (al no superar los 600.000 €).
+Y como no se indica cuando se inició dichas actividades, se entenderá que se ha estado realizando dichas actividades antes del 2020, dando lugar a
+que dichas actividades sean incompatibles entre sí. Por lo tanto, el señor Gutiérrez deberá determinar sus rendimientos por estimación directa en 
+modalidad simplificada.
